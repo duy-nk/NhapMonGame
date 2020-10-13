@@ -1,0 +1,5 @@
+﻿  SceneBoss.cpp
+D:\Codes\C++\HAV_Aladdin-master (1)\HAV_Aladdin-master\AladdinGenesis\Monkey.h(9,1): warning C4005: 'ACTIVATE_ZONE': macro redefinition
+D:\Codes\C++\HAV_Aladdin-master (1)\HAV_Aladdin-master\AladdinGenesis\Guard.h(8): message : see previous definition of 'ACTIVATE_ZONE'
+D:\Codes\C++\HAV_Aladdin-master (1)\HAV_Aladdin-master\AladdinGenesis\SceneBoss.cpp(235): warning C4715: 'SceneBoss::NewObject': not all control paths return a value
+  AladdinGenesis.vcxproj -> D:\Codes\C++\HAV_Aladdin-master (1)\HAV_Aladdin-master\Debug\AladdinGenesis.exe
